@@ -2,7 +2,7 @@
 
 <div> <img align="right" alt= "Sam-Gif" height = "180" width="200" src="https://i.picasion.com/pic92/2f3ed70cbcaff845e7725fbbe39b8da6.gif"></div>
 
-### ✧˖° Sobre:
+## ✧˖° Sobre:
  - 📖 Estudante de Ciência de Dados na UFABC
  - 💻 Foco em Python, SQL, Excel e Power BI
  - 🌐 Inglês avançado
