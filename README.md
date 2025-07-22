@@ -6,6 +6,7 @@
  - 📖 Estudante de Ciência de Dados na UFABC
  - 💻 Foco em Python, SQL, Excel e Power BI
  - 🌐 Inglês avançado
+ - 🔎 Apaixonado por pesquisas & cálculos
  - 🚀 Estou iniciando a carreira em Data Science/Analytics, mas tenho muita vontade de aprender!
    
 ---
