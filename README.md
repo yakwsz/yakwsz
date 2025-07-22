@@ -2,7 +2,7 @@
 
 <div> <img align="right" alt= "Sam-Gif" height = "180" width="200" src="https://i.picasion.com/pic92/2f3ed70cbcaff845e7725fbbe39b8da6.gif"></div>
 
-## ✧˖° Sobre:
+### ✧˖° Sobre:
  - 📖 Estudante de Ciência de Dados na UFABC
  - 💻 Foco em Python, SQL, Excel e Power BI
  - 🌐 Inglês avançado
@@ -48,7 +48,7 @@
 ---
 
 ## 🌐 Entre em Contato Comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yakwsz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayky-silva-8a3807372/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kaykycontatosp@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yakwsz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/silvakay) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kaykycontatosp@gmail.com)
 
 ---
 
